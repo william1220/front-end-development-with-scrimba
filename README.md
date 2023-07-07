@@ -27,7 +27,7 @@
 
 ## About The Project
 
-The Repository content will be updated. Stay in Tune
+The Repository content will be updated. Stay Tune for updated!
 
 ## Built With
 
