@@ -37,7 +37,7 @@ This repository will be built based on Front-end Web Development Technology such
 * Google-clone - A copy of google landing page.
 
 
-## Authors
+## Author
 
 [//]: contributor-faces
 
