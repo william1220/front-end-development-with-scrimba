@@ -22,7 +22,7 @@
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Projects](#projects)
-* [Authors](#authors)
+* [Author](#author)
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
@@ -34,6 +34,7 @@ The Repository content will be updated. Stay Tune for updated!
 This repository will be built based on Front-end Web Development Technology such as HTML, CSS, JavaScript (React )
 
 ### Projects
+* My First App - First Page made.
 * Google-clone - A copy of google landing page.
 
 
