@@ -7,7 +7,7 @@
   <h3 align="center">Front End Development with Scrimba</h3>
 
   <p align="center">
-    This Repository is dedicated on Learning more about Front end Development using Scrimba online learning Platform
+    This Repository is dedicated on Learning more about Front end Development using Scrimba an  online learning Platform
     <br/>
     <br/>
     <a align="center" href="https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80">View Demo</a>
@@ -16,12 +16,13 @@
 </p>
 
 ![Contributors](https://img.shields.io/github/contributors/william1220/front-end-development-with-scrimba?color=dark-green)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1fede897-733a-40a6-8871-39f6dcc1d19a/deploy-status)](https://app.netlify.com/sites/front-end-with-scrimba/deploys)
 
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Projects](#projects)
+* [Mini Projects](#mini-projects)
 * [Author](#author)
 * [Acknowledgements](#acknowledgements)
 
@@ -31,9 +32,9 @@ The Repository content will be updated. Stay Tune for updated!
 
 ## Built With
 
-This repository will be built based on Front-end Web Development Technology such as HTML, CSS, JavaScript (React )
+This repository will be built based on Front-end Web Development Technology such as HTML, CSS, JavaScript (React ). Landing Page is made of HTML, CSS, Javscript and Bootscrap template
 
-### Projects
+### Mini Projects
 * My First App - First Page made.
 * Google-clone - A copy of google landing page.
 
