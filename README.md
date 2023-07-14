@@ -32,7 +32,7 @@ The Repository content will be updated. Stay Tune for updated!
 
 ## Built With
 
-This repository will be built based on Front-end Web Development Technology such as HTML, CSS, JavaScript (React ). Landing Page is made of HTML, CSS, Javscript and Bootscrap template
+This repository will be built based on Front-end Web Development Technology such as HTML, CSS, JavaScript (React ). Landing Page is made of HTML, CSS, Javscript and Bootstrap template
 
 ### Mini Projects
 * My First App - First Page made.
