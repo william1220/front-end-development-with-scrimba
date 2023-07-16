@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/william1220/front-end-development-with-scrimba">
-    <img src="assets/readme.png" alt="Logo" width="80" height="80">
+    <img src="/img/icons8-developer-64.png" alt="Logo" width="80" height="80">
   </a>
 
 
