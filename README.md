@@ -10,7 +10,7 @@
     This Repository is dedicated on Learning more about Front end Development using Scrimba an  online learning Platform
     <br/>
     <br/>
-    <a align="center" href="https://images.unsplash.com/photo-1614332287897-cdc485fa562d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80">View Demo</a>
+    <a align="center" href="https://front-end-with-scrimba.netlify.app/">View Demo</a>
 
   </p>
 </p>
@@ -50,5 +50,5 @@ This repository will be built based on Front-end Web Development Technology such
 ## Acknowledgements
 
 * [Scrimba](https://scrimba.com/)
-* [Templatemo]
-* [Pexels] (https://www.pexels.com/video/a-magical-background-4182916/) - Magical Background By Oleg Gamulinskii
+* [Templatemo](https://templatemo.com/)
+* [Pexels](https://www.pexels.com/) - Magical Background By Oleg Gamulinskii
