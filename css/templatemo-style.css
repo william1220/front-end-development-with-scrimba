@@ -1,10 +1,3 @@
-/*
-
-TemplateMo 560 Astro Motion
-
-https://templatemo.com/tm-560-astro-motion
-
-*/
 
 html, body, .page-container {
     height: 100%;
@@ -127,7 +120,7 @@ h2 {
     left: calc(50% - 10px);
     bottom: -10px;
     width: 20px;
-    height: 20px; 
+    height: 20px;
     background-color: white;
     border-radius: 50%;
 }
@@ -178,7 +171,7 @@ h2 {
     padding: 10px 0;
 }
 
-.cd-hero-slider li { 
+.cd-hero-slider li {
     list-style: none;
 }
 
@@ -210,7 +203,7 @@ h2 {
 .intro-left {
     margin-right: 20px;
     padding: 30px 40px;
-    max-width: 505px;    
+    max-width: 505px;
 }
 
 .intro-img-1 {
@@ -425,7 +418,7 @@ figure.effect-julia:hover p {
 	transform: translate3d(0,0,0);
 }
 
-.gallery-slider .slick-dots li.slick-active, 
+.gallery-slider .slick-dots li.slick-active,
 .gallery-slider .slick-dots li:hover {
     background-color: #3CCDFF;
 }
@@ -533,7 +526,7 @@ figure.effect-julia:hover p {
     .navbar {
         position: relative;
     }
-    
+
     .navbar-collapse {
         position: absolute;
         top: 63px;
@@ -612,7 +605,7 @@ figure.effect-julia:hover p {
     }
 }
 
-/* Preloader 
+/* Preloader
 	https://ihatetomatoes.net/create-custom-preloading-screen/
 */
 /* ==========================================================================
@@ -643,22 +636,22 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 
 /* Loaded */
 .loaded #loader-wrapper .loader-section.section-left {  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */
-	transform: translateX(-100%);  /* Firefox 16+, IE 10+, Opera */  
+	transform: translateX(-100%);  /* Firefox 16+, IE 10+, Opera */
 	transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1.000);
 }
 
 .loaded #loader-wrapper .loader-section.section-right {  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */
-	transform: translateX(100%);  /* Firefox 16+, IE 10+, Opera */  
+	transform: translateX(100%);  /* Firefox 16+, IE 10+, Opera */
 	transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1.000);
 }
 
 .loaded #loader {
-	opacity: 0;  
+	opacity: 0;
 	transition: all 0.3s ease-out;
 }
 .loaded #loader-wrapper {
 	visibility: hidden;  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */
-	transform: translateY(-100%);  /* Firefox 16+, IE 10+, Opera */  
+	transform: translateY(-100%);  /* Firefox 16+, IE 10+, Opera */
 	transition: all 0.3s 1s ease-out;
 }
 /* JavaScript Turned Off */
