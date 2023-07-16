@@ -28,7 +28,7 @@
 
 ## About The Project
 
-The Repository content will be updated. Stay Tune for updated!
+The Repository content will be updated constantly. Stay Tune for updates!
 
 ## Built With
 
