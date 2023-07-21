@@ -1,8 +1,18 @@
 body {
     text-align: center;
     font-family: 'Tektur', cursive;
-    background-image: url("images/moon-g07476b0ae_1920.jpg");
+    /* background-image: url("images/moon-g07476b0ae_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
     color: #ffffff;
+}
+
+html {
+  background: url("images/moon-g07476b0ae_1920.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 h1, h2, h3, h4, p {
@@ -76,12 +86,12 @@ h1, h2, h3, h4, p {
 
 #gift-img-genius:hover {
     background-image: url("https://media.giphy.com/media/xUPOqsZlHYyDIYXnHi/giphy.gif");
-  
+
 }
 
 #gift-img-badass:hover {
     background-image: url("https://media.giphy.com/media/kIEKlh9tA5YKKGtKB9/giphy.gif");
-    
+
 }
 
 #gift-img-cheers:hover {
@@ -106,12 +116,12 @@ a {
     color: white;
 }
 
-/* 
-Add the footer paragraph according to the design. 
+/*
+Add the footer paragraph according to the design.
 Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
+Forgotten how to do it? Google it!
 
-Link: 
+Link:
 https://scrimba.com/learn/htmlandcss
 
 Text:
