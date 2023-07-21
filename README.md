@@ -38,7 +38,8 @@ This repository will be built based on Front-end Web Development Technology such
 * My First App - First Page made.
 * Google-clone - A copy of google landing page.
 * Business-card - Sample Business Card.
-* Space Explorration Site - Hero Banner of Space Exploration Site
+* Space Exploration Site - Hero Banner of Space Exploration Site
+* Birthday-gift Site - A Website made for birthday celebrator
 
 
 ## Author
