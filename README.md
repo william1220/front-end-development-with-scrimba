@@ -10,7 +10,7 @@
     This Repository is dedicated on Learning more about Front end Development using Scrimba an  online learning Platform
     <br/>
     <br/>
-    <a align="center" href="https://front-end-with-scrimba.netlify.app/">View Demo</a>
+    <a align="center" href="https://front-end-with-scrimba.netlify.app/" target="_blank">View Demo</a>
 
   </p>
 </p>
