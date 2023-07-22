@@ -40,6 +40,7 @@ This repository will be built based on Front-end Web Development Technology such
 * Business-card - Sample Business Card.
 * Space Exploration Site - Hero Banner of Space Exploration Site
 * Birthday-gift Site - A Website made for birthday celebrator
+* Solo Project: Hometown Homepage
 
 
 ## Author
