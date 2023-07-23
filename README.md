@@ -28,6 +28,10 @@
 
 ## About The Project
 
+![Screen Shot](img/Front-end-Scrimba2.png)
+
+This Page/Project is dedicated to show all the mini Projects made with Scrimba Frontend Development Career Path
+
 The Repository content will be updated constantly. Stay Tune for updates!
 
 ## Built With
