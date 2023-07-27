@@ -9,3 +9,9 @@ body{
   height: 100%;
   text-align: center;
 }
+
+.activities{
+  display: flex;
+  justify-content: space-between;
+  border: 5px dotted blue;
+}
