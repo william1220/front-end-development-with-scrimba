@@ -39,12 +39,12 @@ The Repository content will be updated constantly. Stay Tune for updates!
 This repository will be built based on Front-end Web Development Technology such as HTML, CSS, JavaScript (React ). Landing Page is made of HTML, CSS, Javscript and Bootstrap template
 
 ### Mini Projects
-* My First App - First Page made.
-* Google-clone - A copy of google landing page.
-* Business-card - Sample Business Card.
-* Space Exploration Site - Hero Banner of Space Exploration Site
-* Birthday-gift Site - A Website made for birthday celebrator
-* Solo Project: Hometown Homepage
+* [My First App](https://front-end-with-scrimba.netlify.app/my-first-page/first.html) - First Page made.
+* [Google-clone](https://front-end-with-scrimba.netlify.app/google-clone/google-clone.html) - A copy of google landing page.
+* [Business-card](https://front-end-with-scrimba.netlify.app/business%20card/business-card) - Sample Business Card.
+* [Space Exploration Site](https://front-end-with-scrimba.netlify.app/space%20exploration%20site/space-exploration) - Hero Banner of Space Exploration Site
+* [Birthday-gift Site](https://front-end-with-scrimba.netlify.app/birthday%20site/birthday-site) - A Website made for birthday celebrator
+* [Solo Project](https://front-end-with-scrimba.netlify.app/hometown%20homepage/berlin.html) Hometown Homepage
 
 
 ## Author
