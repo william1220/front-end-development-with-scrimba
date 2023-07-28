@@ -1,3 +1,12 @@
-.card{
-  border: 10px solid red;
+.card {
+  padding: 100px;
+  max-width: 400px;
+  /* border: 10px dotted red; */
+}
+
+.img-circle{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  max-width: 500px;
 }

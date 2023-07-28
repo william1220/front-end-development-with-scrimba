@@ -3,5 +3,18 @@
   background-position: center;
   padding: 150px 0;
   width: 100vw;
-  height: 25vh;
+  height: 15vh;
+  color:white;
+}
+
+.banner-title{
+  margin: 50px auto;
+  background:#457B9D;
+  padding: 5px 10px;
+  border-radius: 5px;
+  width: 500px;
+}
+
+.title2{
+  width: 905px;
 }
