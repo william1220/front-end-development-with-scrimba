@@ -2,10 +2,30 @@
 @import url("components/carousel.css");
 @import url("components/container.css");
 @import url("components/img-avatar.css");
+@import url("components/card.css");
 
 body{
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   height: 100%;
   text-align: center;
+}
+
+.activities{
+  display: flex;
+  flex: 1 1 0px;
+  justify-content: space-evenly;
+  background-color: #F1FAEE;
+}
+
+h1{
+  font-size: 60px;
+}
+
+h2{
+  font-size: 50px;
+}
+
+h3{
+  font-size: 20px;
 }
