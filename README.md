@@ -44,8 +44,8 @@ This repository will be built based on Front-end Web Development Technology such
 * [Business-card](https://front-end-with-scrimba.netlify.app/business%20card/business-card) - Sample Business Card.
 * [Space Exploration Site](https://front-end-with-scrimba.netlify.app/space%20exploration%20site/space-exploration) - Hero Banner of Space Exploration Site
 * [Birthday-gift Site](https://front-end-with-scrimba.netlify.app/birthday%20site/birthday-site) - A Website made for birthday celebrator
-* [Solo Project](https://front-end-with-scrimba.netlify.app/hometown%20homepage/berlin.html) Hometown Homepage
-* [Passenger Counter app]()
+* [Solo Project](https://front-end-with-scrimba.netlify.app/hometown%20homepage/berlin.html)-Hometown Homepage
+* [Passenger Counter app]()-Passenger Counter with Javascript
 
 
 ## Author
