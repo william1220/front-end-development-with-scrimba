@@ -6,6 +6,9 @@
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" type="image/png" href="assets/icons8-scoreboard-64.png" />
   <title>Basketball Champions League</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sarpanch&display=swap" rel="stylesheet">
 </head>
 <body>
   <header class="hero">
@@ -22,32 +25,66 @@
       </ul>
     </nav>
     <section class="content">
-      <h1>Hogwarts Basketball League</h1>
-      <a href="#">Start Now</a>
+      <section class="scoreboard">
+        <div class="team">
+          <div class="home">
+            <h2>Home</h2>
+            <h1>0</h1>
+            <div class="rw-btn">
+              <a href="#" class="btn">1</a>
+              <a href="#" class="btn">2</a>
+              <a href="#" class="btn">3</a>
+            </div>
+          </div>
+          <div class="visitor">
+            <h2>Visitor</h2>
+            <h1>0</h1>
+            <div class="rw-btn">
+              <a href="#" class="btn">1</a>
+              <a href="#" class="btn">2</a>
+              <a href="#" class="btn">3</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="penalty-quarter">
+          <div>
+            <h2>Fouls</h2>
+            <h1>0</h1>
+          </div>
+          <div>
+            <h2>Period</h2>
+            <h1>0</h1>
+          </div>
+          <div>
+            <h2>Fouls</h2>
+            <h1>0</h1>
+          </div>
+        </div>
+
+        <div class="timer">
+          <h2>Timer</h2>
+          <h1 id="timer-display">10:00</h1>
+          <div>
+            <a href="#" class="btn">1</a>
+            <a href="#" class="btn">2</a>
+            <a href="#" class="btn">5</a>
+            <a href="#" class="btn">10</a>
+          </div>
+        </div>
+      </section>
     </section>
   </header>
 
   <main class="container">
     <header class="title">
     </header>
-    <section class="scoreboard">
-      <div class="team">
-
-      </div>
-      <div class="penalty-quarter">
-
-      </div>
-
-      <div class="timer">
-
-      </div>
-
-      <div class="timer-duration">
-
-      </div>
-    </section>
   </main>
   <script src="js/basketball-scoreboard.js"></script>
   <script src="js/page-title.js"></script>
+
+  <footer>
+    <p>&copy; 2023 Welcome to Berlin</p>
+  </footer>
 </body>
 </html>
