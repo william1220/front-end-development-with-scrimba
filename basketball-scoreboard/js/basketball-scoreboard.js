@@ -42,4 +42,28 @@ visitorBtn3.addEventListener("click", () => {
   visitorCount +=3 ;
   visitorDisplay.innerHTML =visitorCount;
 })
-console.log(homeBtn)
+
+
+//Period and foul counter
+ let = homeFoulCount = 0;
+ let = visitorFoulCount = 0;
+ let = periodCount = 0;
+ let = homeFoul = document.querySelector(".home-foul-counter");
+ let = period = document.querySelector(".period-counter");
+ let = visitorFoul = document.querySelector(".visitor-foul-counter")
+
+ homeFoul.addEventListener("click", () => {
+  homeFoulCount +=1 ;
+  homeFoul.innerHTML = homeFoulCount;
+})
+
+visitorFoul.addEventListener("click", () => {
+  visitorFoulCount +=1 ;
+  visitorFoul.innerHTML = visitorFoulCount;
+})
+
+period.addEventListener("click", () => {
+  periodCount +=1 ;
+  period.innerHTML = periodCount;
+})
+
