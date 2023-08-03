@@ -1,5 +1,3 @@
-console.log("hello")
-
 // Select Every Count Container
 const countContainer = document.querySelectorAll(".count-digit");
 
@@ -11,23 +9,22 @@ const resetAction = document.getElementById("reset-timer");
 // Select HTML5 Audio element
 const timeoutAudio = document.getElementById("alarm_audio");
 
-// Default inital value of timer
+// // // Default inital value of timer
+let defaultValue = 10 * 60;
 
-const defaultValue = 1 * 60;
-
-// variable to the time
-var countDownTime = defaultValue;
+// // // variable to the time
+let countDownTime = defaultValue;
 
 // variable to store time interval
-var timerID;
+let timerID;
 
 // Variable to track whether timer is running or not
-var isStopped = true;
+let isStopped = true;
 
 // Function calculate time string
 const findTimeString = () => {
-  var minutes = String(Math.trunc(countDownTime / 60));
-  var seconds = String(countDownTime % 60);
+  let minutes = String(Math.trunc(countDownTime / 60));
+  let seconds = String(countDownTime % 60);
   if (minutes.length === 1) {
     minutes = "0" + minutes;
   }
@@ -36,6 +33,22 @@ const findTimeString = () => {
   }
   return minutes + seconds;
 };
+
+// //Change timer duration
+// Future features
+// let timer1 = document.querySelector(".btn-1");
+// let timer2 = document.querySelector(".btn-2");
+// let timer5 = document.querySelector(".btn-5");
+// let timer10 = document.querySelector(".btn-10");
+
+// timer1.addEventListener("click", () => {
+//   let defaultValue = 10 * 60;
+//   let countDownTime = defaultValue;
+//   resetTimer();
+//   console.log("clicked")
+//   })
+
+
 
 // Function to start Countdown
 const startTimer = () => {
@@ -68,6 +81,7 @@ timeoutAudio.load();
 startAction.onclick = startTimer;
 resetAction.onclick = resetTimer;
 stopAction.onclick = stopTimer;
+// timer1.onclick = resetTimer;
 
 // Function to display coundown on screen
 const renderTime = () => {
