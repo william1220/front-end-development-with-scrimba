@@ -46,7 +46,7 @@ This repository will be built based on Front-end Web Development Technology such
 * [Birthday-gift Site](https://front-end-with-scrimba.netlify.app/birthday%20site/birthday-site) - A Website made for birthday celebrator
 * [Solo Project](https://front-end-with-scrimba.netlify.app/hometown%20homepage/berlin.html)-Hometown Homepage
 * [Passenger Counter app](https://front-end-with-scrimba.netlify.app/passenger-counter/passenger-counter.html)-Passenger Counter with Javascript
-* [Basketball Scoreboard]()-Basketball Scoreboard with Javascript
+* [Basketball Scoreboard](https://front-end-with-scrimba.netlify.app/basketball-scoreboard/basketball-scoreboard)-Basketball Scoreboard with Javascript
 
 ## Author
 
