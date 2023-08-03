@@ -1,15 +1,13 @@
 .scoreboard{
-  margin-top: 70px;
   display: flex;
   flex-direction: column;
-  border: 10px dotted red;
-  width: 600px;
-  max-width: 600px;
+  width: 700px;
+  max-width: 700px;
+  margin: 50px 50px 50px 50px;
 }
 
 .team, .penalty-quarter{
   display: flex;
-  border: 5px solid black;
   justify-content: space-between;
   width:600px;
 }
@@ -21,11 +19,12 @@
 
 .home, .visitor{
   margin-right: 50px;
+  border: 5px dotted black;
 }
 
 .timer{
   width: 600px;
-  border: 5px solid black;
+
 }
 
 .home{
@@ -37,8 +36,7 @@
   flex-direction: row;
   text-align: center;
   justify-content: center;
-  /* width: 100px;
-  text-align: center; */
+
 }
 
 .visitor-score, .home-score{
@@ -47,4 +45,14 @@
 
 .home-foul-counter, .period-counter, .visitor-foul-counter{
   margin-bottom: 10px;
+  border: 5px dotted black;
+
+}
+
+.penalty-quarter{
+  margin-top: 18px;
+}
+
+.time-display{
+  margin-top: 15px;
 }

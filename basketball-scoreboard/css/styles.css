@@ -12,7 +12,9 @@
 
 .content{
   text-align: center;
-  width: 600px;
+  width: 700px;
+  border: 5px solid black;
+  height: 767px;
 }
 .content h1{
   font-size: 100px;
