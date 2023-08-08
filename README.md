@@ -47,7 +47,7 @@ This repository will be built based on Front-end Web Development Technology such
 * [Solo Project](https://front-end-with-scrimba.netlify.app/hometown%20homepage/berlin.html)-Hometown Homepage
 * [Passenger Counter app](https://front-end-with-scrimba.netlify.app/passenger-counter/passenger-counter.html)-Passenger Counter with Javascript
 * [Basketball Scoreboard](https://front-end-with-scrimba.netlify.app/basketball-scoreboard/basketball-scoreboard)-Basketball Scoreboard with Javascript
-
+* [Black Jack](#)-Black Jack with Javscript
 ## Author
 
 [//]: contributor-faces
