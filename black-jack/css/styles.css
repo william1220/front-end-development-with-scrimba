@@ -1,0 +1,12 @@
+@import url(components/cards.css);
+
+body{
+  height: 100vh;
+}
+
+main{
+  height: 55%;
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+}
