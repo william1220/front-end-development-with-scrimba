@@ -9,6 +9,7 @@ const cardObjectDefinitions = [
 ]
 
 const cardBackImgPath = '/black-jack/assets/cards/cards-back.png'
+const cardContainerElem = document.querySelector('.card-container')
 
 function createCard(cardItem) {
   //create a dynamic element for the card
@@ -52,6 +53,17 @@ function createCard(cardItem) {
   //add back image element as child element back card element
   addChildElement(cardBackElem, cardBackImg)
 
+  //add front card element as child element to back card element
+  addChildElement(cardInnerElem, cardFrontElem)
+
+  //add Back card element as child element to inner card element
+  addChildElement(cardInnerElem, cardBackElem)
+
+  // add inner card element as child element to card element
+  addChildElement(cardElem, cardInnerElem)
+
+  // add card element as child element to appropriate grid cell
+
 }
 
 function createElement(elemType) {
@@ -72,4 +84,24 @@ function addSrcToImageElem(imgElem, src){
 
 function addChildElement (parentElem, childElem){
   parentElem.appendChild(childElem)
+}
+
+function addCardToGridCell(card) {
+
+}
+
+
+function maprCardIdToGridCell(params) {
+  if(card.id == 1)
+  {
+    return '.card-pos-a'
+  }
+  else if(card.id == 2)
+  {
+    return '.card-pos-b'
+  }
+  else if(card.id == 3)
+  {
+    return ''
+  }
 }
