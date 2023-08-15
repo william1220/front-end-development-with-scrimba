@@ -47,7 +47,7 @@ This repository will be built based on Front-end Web Development Technology such
 * [Solo Project](https://front-end-with-scrimba.netlify.app/hometown%20homepage/berlin.html)-Hometown Homepage
 * [Passenger Counter app](https://front-end-with-scrimba.netlify.app/passenger-counter/passenger-counter.html)-Passenger Counter with Javascript
 * [Basketball Scoreboard](https://front-end-with-scrimba.netlify.app/basketball-scoreboard/basketball-scoreboard)-Basketball Scoreboard with Javascript
-* [Black Jack](#)-Black Jack with Javscript
+* [Card Game](#)-Find the ace card game with Javscript
 ## Author
 
 [//]: contributor-faces
@@ -63,4 +63,4 @@ This repository will be built based on Front-end Web Development Technology such
 * [Pexels](https://www.pexels.com/) - Magical Background By Oleg Gamulinskii,[Basketball Players Having Their Practice]( https://www.pexels.com/video/basketball-players-having-their-practice-1585618/)-Salomé Renard
 * [Pixabay](https://pixabay.com/) - Source of Images that are free to use
 * [icons8.com](https://icons8.com/) - Source of Icons
-* [Freecodecamp.org] - Card Game Tutorial
+* [Freecodecamp.org](#) - Card Game Tutorial
