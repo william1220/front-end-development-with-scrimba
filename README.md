@@ -45,9 +45,11 @@ This repository will be built based on Front-end Web Development Technology such
 * [Space Exploration Site](https://front-end-with-scrimba.netlify.app/space%20exploration%20site/space-exploration) - Hero Banner of Space Exploration Site
 * [Birthday-gift Site](https://front-end-with-scrimba.netlify.app/birthday%20site/birthday-site) - A Website made for birthday celebrator
 * [Solo Project](https://front-end-with-scrimba.netlify.app/hometown%20homepage/berlin.html)-Hometown Homepage
-* [Passenger Counter app](https://front-end-with-scrimba.netlify.app/passenger-counter/passenger-counter.html)-Passenger Counter with Javascript
-* [Basketball Scoreboard](https://front-end-with-scrimba.netlify.app/basketball-scoreboard/basketball-scoreboard)-Basketball Scoreboard with Javascript
-* [Card Game](#)-Find the ace card game with Javscript
+* [Passenger Counter app](https://front-end-with-scrimba.netlify.app/passenger-counter/passenger-counter.html)-Javascript Passenger Counter
+* [Basketball Scoreboard](https://front-end-with-scrimba.netlify.app/basketball-scoreboard/basketball-scoreboard)- Javascript Basketball Scoreboard
+* [Card Game](https://front-end-with-scrimba.netlify.app/card-game/card-game)-Javscript Find the ace card game
+* [Password Generator](#)- Javascript Password Generator
+
 ## Author
 
 [//]: contributor-faces
