@@ -1,6 +1,13 @@
+body{
+  background-color: #101b1e;
+  color: #fcfdfd;
+}
+
 .class-container{
+  background-color: #252113;
+  box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
   margin:100px auto 30px auto;
-  border: 5px dotted black;
+  /* border: 5px dotted black; */
   display: flex;
   flex-direction: column;
   align-content: center;
@@ -10,7 +17,7 @@
 }
 
 .title{
-  border: 5px dotted red;
+  /* border: 5px dotted red; */
 }
 
 footer{
@@ -18,6 +25,8 @@ footer{
 }
 
 .result-container{
+  background-color:#aa5a6e;
+  border-radius: 10px;
   margin-top:20px;
   display:flex;
   justify-content: flex-start;
@@ -27,7 +36,7 @@ footer{
   font-size: 18px;
   letter-spacing: 1px;
 	padding: 12px 10px;
-  border: 5px dotted blue;
+  /* border: 5px dotted blue; */
   /* background-color: #23235B; */
 	box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
   justify-content: space-between;
@@ -39,8 +48,10 @@ footer{
 }
 
 .settings{
-  margin-top: 10px;
-  border:5px dotted black;
+  margin-top: 20px;
+  background-color: #5e3c31;
+  border-radius: 10px;
+  /* border:5px dotted black; */
   width: 72%;
 }
 
@@ -55,10 +66,17 @@ footer{
 }
 
 .button{
+  background-color: #5e3c31;
+  color: #fcfdfd;
   width: 30%;
   text-align: center;
   border:1px solid #4A4A4A;
   padding: 8px 24px;
-  margin-top: 40px;
+  margin-top: 35px;
   border-radius: 50px;
+}
+
+
+.results{
+  margin-left: 100px;
 }
