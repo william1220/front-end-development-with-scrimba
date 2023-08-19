@@ -48,7 +48,7 @@ This repository will be built based on Front-end Web Development Technology such
 * [Passenger Counter app](https://front-end-with-scrimba.netlify.app/passenger-counter/passenger-counter.html)-Javascript Passenger Counter
 * [Basketball Scoreboard](https://front-end-with-scrimba.netlify.app/basketball-scoreboard/basketball-scoreboard)- Javascript Basketball Scoreboard
 * [Card Game](https://front-end-with-scrimba.netlify.app/card-game/card-game)-Javscript Find the ace card game
-* [Password Generator](#)- Javascript Password Generator
+* [Password Generator](https://front-end-with-scrimba.netlify.app/password-generator/password-gen)- Javascript Password Generator
 
 ## Author
 
