@@ -50,7 +50,7 @@ This repository will be built based on Front-end Web Development Technology such
 * [Card Game](https://front-end-with-scrimba.netlify.app/card-game/card-game)-Javscript Find the ace card game
 * [Password Generator](https://front-end-with-scrimba.netlify.app/password-generator/password-gen)- Javascript Password Generator
 * [Chrome Extension](#)- Javascript Chrome Extension
-* [Unit Converter](#) - Unit converter with Javascript
+* [Unit Converter](https://front-end-with-scrimba.netlify.app/unit-converter/unit-converter) - Unit converter with Javascript
 
 ## Author
 
