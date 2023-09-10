@@ -33,5 +33,5 @@ convertBtnEl.addEventListener("click", () => {
   dLeftVolumeElg1.innerHTML = (value  * 0.264172).toFixed(2);
   dRightVolumeEll2.innerHTML = (value  / 0.264172).toFixed(2);
   dLeftMassElp1.innerHTML = (value * 2.2).toFixed(2);
-  dRightMassElk2 .innerHTML = (value / 2.2)-toFixed(2);
+  dRightMassElk2 .innerHTML = (value / 2.2).toFixed(2);
 })
