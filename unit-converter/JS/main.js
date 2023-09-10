@@ -16,3 +16,22 @@ const dRightMassElk2 = document.querySelector(".d-right-mass-k2");
 const dRightMassElp2 = document.querySelector(".d-right-mass-p2");
 
 
+
+convertBtnEl.addEventListener("click", () => {
+  // Display input value
+  dLeftLengthE1m1.innerHTML = inputEl.value;
+  dRightLengthElf2.innerHTML = inputEl.value;
+  dLeftVolumeEll1.innerHTML = inputEl.value;
+  dRightVolumeElg2.innerHTML = inputEl.value;
+  dLeftMassElk1.innerHTML = inputEl.value;
+  dRightMassElp2.innerHTML = inputEl.value;
+
+  let value = inputEl.value;
+  // Conversion
+  dLeftLengthE1f1.innerHTML = (value  * 3.28).toFixed(2) ;
+  dRightLengthElm2.innerHTML = (value / 3.28).toFixed(2);
+  dLeftVolumeElg1.innerHTML = (value  * 0.264172).toFixed(2);
+  dRightVolumeEll2.innerHTML = (value  / 0.264172).toFixed(2);
+  dLeftMassElp1.innerHTML = (value * 2.2).toFixed(2);
+  dRightMassElk2 .innerHTML = (value / 2.2)-toFixed(2);
+})
