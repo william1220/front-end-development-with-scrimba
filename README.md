@@ -51,7 +51,7 @@ This repository will be built based on Front-end Web Development Technology such
 * [Password Generator](https://front-end-with-scrimba.netlify.app/password-generator/password-gen)- Javascript Password Generator
 * [Chrome Extension](#)- Javascript Chrome Extension
 * [Unit Converter](https://front-end-with-scrimba.netlify.app/unit-converter/unit-converter) - Unit converter with Javascript
-* [Mobile Application](#)- Mobile Application Development with Javscript using Firebase Database
+* [Mobile Application](https://front-end-with-scrimba.netlify.app/mobile-application/mobi-app)- Mobile Application Development with Javscript using Firebase Database
 
 ## Author
 
