@@ -34,7 +34,7 @@ const appendCommentToCommentList = (item) => {
 
   newEl.addEventListener("click", function (){
     let exactLocationOfCommentInDB = ref(database,`commentsList/${itemID}`)
-    remove(exactLocationOfCommentInDB)
+    // remove(exactLocationOfCommentInDB)
   })
   commentsListEl.append(newEl)
 }
