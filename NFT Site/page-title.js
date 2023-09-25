@@ -2,7 +2,7 @@
 window.onload = function() {
 
   let pageTitle = document.title;
-  let attentionMessage = '*Hey The Scores!';
+  let attentionMessage = '*Hey Look at this Treasure';
   let blinkEvent = null;
 
   document.addEventListener('visibilitychange', function(e) {
