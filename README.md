@@ -52,8 +52,8 @@ This repository will be built based on Front-end Web Development Technology such
 * [Chrome Extension](#)- Javascript Chrome Extension
 * [Unit Converter](https://front-end-with-scrimba.netlify.app/unit-converter/unit-converter) - Unit converter with Javascript
 * [Mobile Application](https://front-end-with-scrimba.netlify.app/mobile-application/mobi-app)- Mobile Application Development with Javascript using Firebase Database
-* [We are the champion](#)- Mobile Application Challenge 
-
+* [We are the champion](https://front-end-with-scrimba.netlify.app/we-are-the-champion/we-are-the-champ)- Mobile Application Challenge
+* [NFT page](#)- Building NFT Site
 ## Author
 
 [//]: contributor-faces
