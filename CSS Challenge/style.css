@@ -2,6 +2,7 @@ body, html{
   margin: 0;
   text-align: center;
   font-family: 'Roboto Serif', serif;
+  font-size: 21px;
 }
 
 .container{
@@ -11,4 +12,17 @@ body, html{
 
 .avatar{
   border-radius: 50%;
+  width: 300px;
+}
+
+h1{
+  font-size: 60px;
+}
+
+h2{
+  font-size: 42px;
+}
+
+h3{
+  font-size: 36px;
 }
