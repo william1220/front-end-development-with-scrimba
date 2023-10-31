@@ -8,6 +8,7 @@ body, html{
 .container{
   margin: 0 auto;
   width: 570px;
+  border: 3px black solid;
 }
 
 .avatar{
@@ -25,4 +26,9 @@ h2{
 
 h3{
   font-size: 36px;
+  font-weight: 900;
+}
+
+h1, h2{
+  font-weight: 300;
 }
