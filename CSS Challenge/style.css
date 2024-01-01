@@ -1,8 +1,9 @@
-body, html{
+body{
   margin: 0;
   text-align: center;
-  font-family: 'Roboto Serif', serif;
+  font-family: 'Roboto Serif', sans-serif;
   font-size: 21px;
+  font-weight: 300;
 }
 
 .container{
@@ -16,12 +17,20 @@ body, html{
   width: 300px;
 }
 
+h1 span{
+  font-weight: 900;
+}
+
 h1{
   font-size: 60px;
 }
 
 h2{
   font-size: 42px;
+}
+
+span{
+  font-weight: 400;
 }
 
 h3{
