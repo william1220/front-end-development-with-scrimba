@@ -62,3 +62,19 @@ a {
 a:hover, a:focus {
   color: #131313;
 }
+
+
+.intro{
+  background-color: #D7D7D7;
+  padding:100px 0 100px ;
+}
+
+.about-me{
+  background-color: #FFEAEA;
+  padding:100px 0 100px ;
+}
+
+.content{
+  background-color: #EAF9FF;
+  padding:100px 0 100px ;
+}
