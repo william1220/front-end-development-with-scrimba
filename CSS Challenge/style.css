@@ -92,8 +92,9 @@ a:hover, a:focus {
   background-color: #99D930;
   color: #252525;
   padding: 8px 24px;
-  border-radius: 10px;
+  border-radius: 4px;
   width: 250px;
+  margin-top: 10px;
 }
 
 .buttons:hover{
