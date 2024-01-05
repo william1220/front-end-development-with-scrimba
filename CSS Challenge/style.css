@@ -3,12 +3,16 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 21px;
   font-weight: 300;
+  margin: 0;
 }
 
 .container {
   width: 570px;
   margin: 0 auto;
-  /* border: 3px black solid; */
+}
+
+p{
+  margin-bottom: 0;
 }
 
 .bold-text {
@@ -29,29 +33,29 @@ h2 .bold-text{
   width: 300px;
 }
 
-/* span{
-  font-weight: 900;
-} */
-
 h1, h2 {
   font-weight: 300;
 }
 
 h1 {
   font-size: 60px;
+  margin-top: 0;
 }
 
 h2 {
+  margin-top: 0;
   font-size: 42px;
 }
 
 h3 {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 0;
 }
 
 .small-text {
   font-size: 16px;
+  margin-top: 5px;
 }
 
 a {
@@ -66,15 +70,33 @@ a:hover, a:focus {
 
 .intro{
   background-color: #D7D7D7;
-  padding:100px 0 100px ;
+  padding:100px 0;
 }
 
 .about-me{
   background-color: #FFEAEA;
-  padding:100px 0 100px ;
+  padding:100px 0;
 }
 
 .content{
   background-color: #EAF9FF;
-  padding:100px 0 100px ;
+  padding:100px 0;
+}
+
+.background-black{
+  background-color: #252525;
+  color: #FFF;
+}
+
+.buttons{
+  background-color: #99D930;
+  color: #252525;
+  padding: 8px 24px;
+  border-radius: 10px;
+  width: 250px;
+}
+
+.buttons:hover{
+  background-color: #252525;
+  color: #FFF;
 }
