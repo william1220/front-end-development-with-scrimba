@@ -54,6 +54,7 @@ This repository will be built based on Front-end Web Development Technology such
 * [Mobile Application](https://front-end-with-scrimba.netlify.app/mobile-application/mobi-app)- Mobile Application Development with Javascript using Firebase Database
 * [We are the champion](https://front-end-with-scrimba.netlify.app/we-are-the-champion/we-are-the-champ)- Mobile Application Challenge
 * [NFT page](https://front-end-with-scrimba.netlify.app/nft%20site/nft)- Building NFT Site
+* [CSS Challenge #1](https://front-end-with-scrimba.netlify.app/css%20challenge/css-challenge)- CSS challenge from Scrimba.
 ## Author
 
 [//]: contributor-faces
