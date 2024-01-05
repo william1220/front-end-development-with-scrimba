@@ -89,12 +89,14 @@ a:hover, a:focus {
 }
 
 .buttons{
+  display: inline-block;
   background-color: #99D930;
+  text-decoration: none;
   color: #252525;
   padding: 8px 24px;
   border-radius: 4px;
   width: 250px;
-  margin-top: 10px;
+  margin-top: 25px;
 }
 
 .buttons:hover{
