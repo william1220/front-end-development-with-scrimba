@@ -15,9 +15,11 @@ p{
   margin-bottom: 0;
 }
 
-.bold-text {
+.bold-text,
+.name, time {
   font-weight: 900;
-  display: block;
+  /* display: block; */
+  color:#99D930;
 }
 
 h1 .bold-text{
@@ -45,6 +47,8 @@ h1 {
 h2 {
   margin-top: 0;
   font-size: 42px;
+  border-top:solid 1px #C4C4C4;
+  border-bottom:solid 1px #C4C4C4;
 }
 
 h3 {
@@ -95,11 +99,17 @@ a:hover, a:focus {
   color: #252525;
   padding: 8px 24px;
   border-radius: 4px;
-  width: 250px;
   margin-top: 25px;
 }
 
-.buttons:hover{
+.buttons:hover,
+.buttons:focus{
   background-color: #252525;
   color: #FFF;
+}
+
+
+.line{
+  width: 1px;
+  color: #C4C4C4;
 }
