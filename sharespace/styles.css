@@ -1,0 +1,53 @@
+body{
+  color: #282828;
+  background-color: whitesmoke;
+  font-family: 'Montserrat';
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: #282828;
+  color: whitesmoke;
+}
+
+.logo{
+  size: 18px;
+  font-weight: 700;
+}
+
+.icon{
+  width: 25px;
+}
+
+nav{
+  background-color: #282828;
+  display: flex;
+}
+
+ul{
+  display: flex;
+  padding: 25px;
+  list-style: none;
+  align-items: center;
+  margin: 0;
+  gap: 10px;
+}
+
+li{
+  cursor: pointer;
+}
+
+h1{
+  size: 40px;
+  font-weight: 400;
+  margin: 30px 25px;
+}
+
+.caption{
+  margin: 0 25px;
+}
+
+.item-img{
+  width: 100%;
+}
