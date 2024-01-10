@@ -55,3 +55,15 @@ h1{
 .align-right{
   margin-left: auto;
 }
+
+.item{
+  position: relative;
+}
+
+.img-banner{
+  position: absolute;
+  background-color: #cd6858;
+  color: whitesmoke;
+  padding: 10px;
+  top: 0;
+}
