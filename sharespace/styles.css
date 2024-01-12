@@ -45,7 +45,10 @@ h1{
 }
 
 .caption{
+  display: flex;
+  position: relative;
   margin: 0 25px;
+  justify-content: space-between;
 }
 
 .item-img{
@@ -66,4 +69,13 @@ h1{
   color: whitesmoke;
   padding: 10px;
   top: 0;
+}
+
+button{
+  border: none;
+  background-color: #cd6858;
+  color: whitesmoke;
+  padding: 10px 15px;
+  font-weight: 700;
+  cursor: pointer;
 }
