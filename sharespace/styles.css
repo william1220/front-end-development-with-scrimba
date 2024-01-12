@@ -49,10 +49,12 @@ h1{
   position: relative;
   margin: 0 25px;
   justify-content: space-between;
+  gap: 20px;
 }
 
 .item-img{
   width: 100%;
+  display: block;
 }
 
 .align-right{
