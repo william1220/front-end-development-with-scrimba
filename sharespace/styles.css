@@ -82,3 +82,21 @@ button{
   cursor: pointer;
   align-self: center;
 }
+
+.chatbox-bg{
+  position: fixed;
+  bottom: 6px;
+  right: 6px;
+  border-radius: 50%;
+  background-color: #dda15e;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  box-shadow: 1px 1px 5px #999;
+  display: flex;
+}
+
+.chatbox-img{
+  width: 50%;
+  margin: auto;
+}
