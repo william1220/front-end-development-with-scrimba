@@ -1,7 +1,7 @@
 window.onload = function() {
 
   let pageTitle = document.title;
-  let attentionMessage = '*Come and share with us!';
+  let attentionMessage = '*CSS Challenge Scrimba!';
   let blinkEvent = null;
 
   document.addEventListener('visibilitychange', function(e) {
